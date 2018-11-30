@@ -1,0 +1,2 @@
+# Fimwares
+Firmwares from MagnaRecta
